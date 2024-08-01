@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BulArvs99
 - 👀 I’m interested in Arduino, and Game Development
-- 🌱 I’m currently learning PHP, Machine Learning, and Javascript
+- 🌱 I’m currently learning Machine Learning, Javascript, and Python
 - 📫 How to reach me? Currently not contactable
 
 <!---
